@@ -10,6 +10,7 @@
   <img src = "(https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/64bcdc14-1bbb-4c66-9373-c464a1366b5f">
    <img src = "https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/b79cc388-0020-487f-b11b-114ede9bfa5b">
   <img src ="https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/6a055e86-cb44-4d5a-8aae-76ec1b399997">
-  <img src ="">
-  <img src =""> 
+  <img src ="https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/927147e7-08e5-4a0a-b591-586c499079af"> 
+  <img src ="https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/9c5c7c6b-c1eb-4be8-89e5-6772b0fb9223">
+  
 </div>
