@@ -17,15 +17,16 @@
 <b>c.</b> Trainers can view the members specifically assigned to a particular class they are instructing.
 d. Trainers can also view members based on their membership type, which helps in organizing and managing member data efficiently.
 
-Key Features and Functionalities:
+## Key Features and Functionalities:
 
-User Authentication: The system allows users to sign in as an admin or trainer with appropriate permissions and access levels.
+<h3> User Authentication:</h3> The system allows users to sign in as an admin or trainer with appropriate permissions and access levels.
 User Management: Administrators can add, update, and delete trainer accounts, while trainers can manage member accounts.
-Class Management: Administrators can create new classes, and trainers can view class-specific information and member enrollment.
-Membership Management: Trainers can view members based on their membership type, which aids in tracking membership data.
-View Member Details: Both admin and trainers can access member information, including personal details and training progress.
-Data Security: The application ensures data privacy and security through user authentication and access control.
-Overall, the GYM management system streamlines gym operations, allowing admins and trainers to efficiently manage trainers, classes, and members, ensuring a smooth and organized gym experience for all stakeholders.
+<h3>Class Management:</h3> Administrators can create new classes, and trainers can view class-specific information and member enrollment.
+<h3>Membership Management:</h3> Trainers can view members based on their membership type, which aids in tracking membership data.
+<h3>View Member Details: </h3>Both admin and trainers can access member information, including personal details and training progress.
+<h3Data Security:></h3> The application ensures data privacy and security through user authentication and access control.
+<hr>
+<h4>Overall, the GYM management system streamlines gym operations, allowing admins and trainers to efficiently manage trainers, classes, and members, ensuring a smooth and organized gym experience for all stakeholders.</h4>
 
 
 
