@@ -48,3 +48,9 @@ User Management: Administrators can add, update, and delete trainer accounts, wh
   <img src ="https://github.com/Fares3993/GYM-Management-System-with-GUI/assets/84674642/9c5c7c6b-c1eb-4be8-89e5-6772b0fb9223">
   
 </div>
+
+### created by a team of 3 students: 
+* Fares Ahmed
+* Eman Ragab
+* Ali Taher
+
